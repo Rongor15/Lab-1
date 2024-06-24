@@ -1,5 +1,7 @@
-import pandas as pd
+import pandas as pd, json
 
 df = pd.read_csv('results.csv',
                 sep=',')
-all_cont = df['region_eng'].unique()
+with open('russia copy.geojson','r',encoding='UTF-8') as response:
+        counties = json.loads(response.read())
+

@@ -17,4 +17,5 @@
 Надо взять ссылку из терминала и добавить в браузер.
 ## Описание
 Дашборд представляет собой три страницы с графиками по заданиям, студентам и картой России.   
-Ссылка на датасет: https://www.kaggle.com/datasets/kirillpupkov/allrussian-math-olympiad-results-20092021
+Ссылка на датасет: https://www.kaggle.com/datasets/kirillpupkov/allrussian-math-olympiad-results-20092021  
+Прочитать про проект больше можно в ```docs/Project_docs.md```
